@@ -1,5 +1,5 @@
 module.exports = {
-  apiKey: "AIzaSyBNeUkPw4SGui__gd1nNjWIgVxB9074_b8",
+  apiKey: "xxxxxxxxxx", //validar clave con administrador
   authDomain: "proyecto-pasantia-biomedica.firebaseapp.com",
   databaseURL:
     "https://proyecto-pasantia-biomedica-default-rtdb.firebaseio.com",
